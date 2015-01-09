@@ -17,3 +17,7 @@
 
 /ui/components
 /node_modules
+/public/dist
+/public/index.html
+
+npm-debug.log
