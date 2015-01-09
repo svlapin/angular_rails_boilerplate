@@ -24,5 +24,7 @@ module Angular
         g.helper = false
         g.view_specs = false
     end
+
+    config.assets.enabled = false
   end
 end
